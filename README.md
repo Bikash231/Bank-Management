@@ -1,0 +1,2 @@
+# Bank-Management
+This project is made on Java language by using Swing-based GUI, Collection Framework, File I/O using java serialization, Unit tests (Junit) to make it work. Book Bank is used by any student, who wish to borrow the books. The student must first login himself to the system. The student can perform look ups for getting the desired book. If the book is available then he can borrow the book. The admin issues the book to the student. The DBA maintains the book. The admin updates the details to the database.
