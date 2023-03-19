@@ -1,2 +1,2 @@
 # Bank-Management
-A bank Management system to manage the some of the Bank tasks
+Management application developed in C++ using OOP concepts for the semester project.
